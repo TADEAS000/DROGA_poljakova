@@ -28,7 +28,6 @@ public class MainApplication extends Application {
 
     GraphicsContext graphicsContext;
 
-
     @Override
     public void start(Stage stage) {
         VBox root = new VBox();

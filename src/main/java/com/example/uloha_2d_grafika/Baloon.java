@@ -5,6 +5,7 @@ import javafx.scene.image.Image;
 import java.net.URL;
 import java.util.Random;
 
+
 public class Baloon extends Rectangle {
     public static final String STANDARD_TEXTURES = "/images/pohyb20.png";
     Image image;
